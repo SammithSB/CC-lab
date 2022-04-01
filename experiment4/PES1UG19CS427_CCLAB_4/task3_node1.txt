@@ -1,0 +1,7 @@
+LEADER => None
+LEADER => 127.0.0.1:8001
+LEADER => 127.0.0.1:8001
+LEADER => 127.0.0.1:8000
+LEADER -> 1
+done writing data_id
+done writing data
